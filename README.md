@@ -1,6 +1,34 @@
-# ukm_app
+# Sistem Informasi UKM Kampus
 
-A new Flutter project.
+## Teknologi
+- Flutter
+- PHP Native
+- MySQL
+- Hive
+- GetX
+- Google ML Kit OCR
+
+## Fitur
+- Login & Register
+- Biometrik
+- OCR KTM
+- Pendaftaran UKM
+- Validasi Admin
+- Aktivitas UKM
+- Absensi Lokasi
+- Keanggotaan UKM
+- Saran Mahasiswa
+
+## Cara Menjalankan API
+
+1. Copy folder api_ukm_msvc ke htdocs
+2. Import database ukm.sql
+3. Jalankan Apache dan MySQL
+
+## Cara Menjalankan Flutter
+
+flutter pub get
+flutter run
 
 ## Getting Started
 
